@@ -1,0 +1,7 @@
+{
+  "name": "sneakerInfo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
